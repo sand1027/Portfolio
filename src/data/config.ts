@@ -37,9 +37,9 @@ const config = {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    linkedin: "https://www.linkedin.com/in/zende-abhijit/",
+    linkedin: "https://www.linkedin.com/in/sandeep-v-a6aaa529b/",
 
-    github: "https://github.com/Abhiz2411/",
+    github: "https://github.com/sand1027/",
   },
 };
 export { config };
